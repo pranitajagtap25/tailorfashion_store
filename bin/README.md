@@ -1,0 +1,1 @@
+# This is a tailor fashion store system which will buy store tailor clothes.
